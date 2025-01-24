@@ -1,5 +1,6 @@
-# Wallet Portal from thirdweb to RainbowKit
----
+![repo-banner](https://github.com/user-attachments/assets/d8304886-bbf9-49b8-94c7-8c3c61192ba6)
+# thirdweb to RainbowKit Wallet Portal
+
 [<img alt="thirdweb SDK" src="https://img.shields.io/npm/v/thirdweb?label=Thirdweb SDK&style=for-the-badge&logo=npm" height="30">](https://www.npmjs.com/package/thirdweb)
 [<img alt="Discord" src="https://img.shields.io/discord/834227967404146718.svg?color=7289da&label=discord&logo=discord&style=for-the-badge" height="30">](https://discord.gg/thirdweb)
 
@@ -117,3 +118,8 @@ export const config = createConfig({
 
 That's all there is to it! You've now created a wallet portal between a thirdweb and RainbowKit site!
 
+## Documentation
+
+-   [React SDK](https://portal.thirdweb.com/react/v5)
+-   [SiteLink](https://portal.thirdweb.com/react/v5/SiteLink)
+-   [RainbowKit](https://www.rainbowkit.com/docs/introduction)
