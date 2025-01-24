@@ -1,0 +1,26 @@
+{
+  "name": "rainbow-app",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@rainbow-me/rainbowkit": "^2.2.2",
+    "@tanstack/react-query": "^5.55.3",
+    "@thirdweb-dev/wagmi-adapter": "^0.2.0",
+    "next": "^15.1.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "thirdweb": "^5.85.0",
+    "viem": "2.21.55",
+    "wagmi": "^2.14.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.8",
+    "@types/react": "^19.0.6",
+    "typescript": "5.5.2"
+  }
+}
