@@ -24,14 +24,7 @@ Go to [http://localhost:3000](http://localhost:3000) in a browser. This is the t
 
 Once your wallet is connected, click "Visit Rainbow Site". This will take you to the second app (make sure its running on port 3001) and after a moment, you'll be connected with the same wallet address.
 
-
-http
-
 https://github.com/user-attachments/assets/0a45cfc6-5193-4fbb-a945-89e39d022338
-
-s://github.com/user-attachments/assets/bd79b5a1-4304-4e07-89d0-2d44ccb141ae
-
-
 
 ## How it Works
 
